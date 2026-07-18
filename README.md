@@ -25,19 +25,6 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 
 <br/>
 
-## 🌐 Socials:
-
-<p align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3" width="100%" />
-
 <!-- ============================================================ -->
 <!--                       TECH STACK                             -->
 <!-- ============================================================ -->
@@ -122,37 +109,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tewari-Kartik&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00C9FF&text_color=c9d1d9" alt="Top Languages" width="48%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tewari-Kartik&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" width="90%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Tewari-Kartik/Tewari-Kartik/output/github-contribution-grid-snake-dark.svg" alt="contribution animation" width="90%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9FF,100:92FE9D&height=3" width="100%" />
-
-<!-- ============================================================ -->
-<!--                       RANDOM DEV QUOTE                       -->
-<!-- ============================================================ -->
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 
 </div>
 
