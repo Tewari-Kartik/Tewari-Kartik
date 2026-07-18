@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Kartik;CS+Engineering+Student;ML+%2F+Deep+Learning+Enthusiast;NLP+%26+Transformers+Builder" alt="intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=B565F3&center=true&vCenter=true&width=720&height=55&lines=Hi%2C+I'm+Kartik;CS+Engineering+Student;ML+%2F+Deep+Learning+Enthusiast;NLP+%26+Transformers+Builder" alt="intro" />
 
 </div>
 
@@ -14,7 +14,7 @@
 <!--                        ABOUT  ME                             -->
 <!-- ============================================================ -->
 
-## About Me:
+## 🐦 About Me:
 
 I'm **Kartik Tewari** — crafting intelligent applications from the metal to the cloud.
 
@@ -29,7 +29,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                       TECH STACK                             -->
 <!-- ============================================================ -->
 
-## Skills & Tools
+## 💻 Skills & Tools
 
 #### Programming & Scripting
 <p align="left">
@@ -96,11 +96,11 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                       GITHUB  STATS                          -->
 <!-- ============================================================ -->
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Tewari-Kartik&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=92FE9D&sideNums=00C9FF&sideLabels=92FE9D&dates=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Tewari-Kartik&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=92FE9D&sideNums=00C9FF&sideLabels=92FE9D&dates=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak" width="60%" />
 
 </div>
 
@@ -118,7 +118,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                          CONNECT                             -->
 <!-- ============================================================ -->
 
-## Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
