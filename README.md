@@ -100,7 +100,6 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tewari-Kartik&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Tewari-Kartik&hide_border=true&background=0D1117&stroke=00C9FF&ring=00C9FF&fire=92FE9D&currStreakLabel=92FE9D&sideNums=00C9FF&sideLabels=92FE9D&dates=c9d1d9&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 
 </div>
