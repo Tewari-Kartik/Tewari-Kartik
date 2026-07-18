@@ -14,7 +14,7 @@
 <!--                        ABOUT  ME                             -->
 <!-- ============================================================ -->
 
-## 🐦 About Me:
+## About Me:
 
 I'm **Kartik Tewari** — crafting intelligent applications from the metal to the cloud.
 
@@ -29,7 +29,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                       TECH STACK                             -->
 <!-- ============================================================ -->
 
-## 💻 Skills & Tools
+## Skills & Tools
 
 #### Programming & Scripting
 <p align="left">
@@ -96,7 +96,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                       GITHUB  STATS                          -->
 <!-- ============================================================ -->
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
 
@@ -118,7 +118,7 @@ I'm **Kartik Tewari** — crafting intelligent applications from the metal to th
 <!--                          CONNECT                             -->
 <!-- ============================================================ -->
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
